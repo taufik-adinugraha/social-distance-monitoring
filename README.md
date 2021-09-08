@@ -11,6 +11,10 @@ python 3.6
 pip install -r requirements.txt
 ```
 
+model:
+
+https://drive.google.com/file/d/1TbbHgeNEN2srWhOI49ah0a8mFRsilJci/view?usp=sharing
+
 Executing program
 ========================
 ```
